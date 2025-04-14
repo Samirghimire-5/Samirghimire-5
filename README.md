@@ -10,7 +10,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
@@ -40,11 +40,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/1CnFSvfLeLsAAAAC/bug-programmer.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <a href="samirghimire9841@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
@@ -55,9 +51,13 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://profile-counter.glitch.me/Samirghimire-5/count.svg?"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media1.tenor.com/m/1CnFSvfLeLsAAAAC/bug-programmer.gif"  />
 
 ###
 
