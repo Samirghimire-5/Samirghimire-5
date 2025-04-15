@@ -1,16 +1,24 @@
-<h2 align="center">Hi, I'm Samir Ghimire.</h2>
+<h1 align="left">Hi, I'm Samir Ghimire.</h1>
 
 ###
 
-<p align="left">"99 little bugs in the code, take one down, patch it around… 127 bugs in the code 🐞🎵"</p>
+<p align="center">"99 little bugs in the code, take one down, patch it around… 127 bugs in the code 🐞🎵"</p>
 
 ###
 
-<p align="left">I'm a passionate full-stack developer currently diving deep into the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy creating dynamic, user-friendly web applications and constantly strive to learn and implement new technologies. When I'm not coding, you can find me exploring creative problem-solving or enjoying some good music!</p>
+<h2 align="left">## About me</h2>
 
 ###
 
-<div align="left">
+<p align="center">I'm a passionate full-stack developer currently diving deep into the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy creating dynamic, user-friendly web applications and constantly strive to learn and implement new technologies. When I'm not coding, you can find me exploring creative problem-solving or enjoying some good music!</p>
+
+###
+
+<h2 align="left">## Languages and Tools</h2>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
@@ -40,6 +48,10 @@
 
 ###
 
+<h2 align="left">## 🔗 Socials</h2>
+
+###
+
 <div align="center">
   <a href="samirghimire9841@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
@@ -57,21 +69,21 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/1CnFSvfLeLsAAAAC/bug-programmer.gif"  />
+<h2 align="left">## 📊 GitHub Stats</h2>
 
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samirghimire-5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Samirghimire-5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samirghimire-5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samirghimire-5/Samirghimire-5/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samirghimire-5/Samirghimire-5/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Samirghimire-5/Samirghimire-5/output/pacman-contribution-graph.svg">
-</picture>
+<img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
+
+###
+
+<img align="left" height="180" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
 
 ###
