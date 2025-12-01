@@ -73,17 +73,3 @@
 </div>
 
 ###
-
-<img align="left" height="200" src="https://media.tenor.com/HIzmzhjZmDkAAAAi/orisakayuta-yutaorisaka.gif"  />
-
-###
-
-<img align="right" height="200" src="https://media.tenor.com/HIzmzhjZmDkAAAAi/orisakayuta-yutaorisaka.gif"  />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/HIzmzhjZmDkAAAAi/orisakayuta-yutaorisaka.gif"  />
-</div>
-
-###
