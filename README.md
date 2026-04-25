@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hi, I'm Samir Ghimire.<br>Based in Kathmandu, Nepal. <br>Working as a Jr. Fullstack Developer at Peridot. <br>Eager to learn and constantly exploring the tech world!</p>
+<p align="left">Hi, I'm Samir Ghimire.<br>Based in Kathmandu, Nepal. <br>Working as a Jr. Fullstack Developer at Peridot.</p>
 
 ###
 
